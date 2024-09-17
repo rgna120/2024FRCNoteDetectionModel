@@ -1,4 +1,4 @@
-# FRC Game Piece Detection Dataset
+#FRC Game Piece Detection Dataset
 
 Welcome to the FRC Game Piece Detection Dataset repository! This dataset is designed to support the development and testing of computer vision models for detecting game pieces used in the FIRST Robotics Competition (FRC). It contains annotated images of various FRC game pieces, which are invaluable for training machine learning models to recognize and classify these objects accurately.
 
