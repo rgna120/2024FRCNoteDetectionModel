@@ -8,17 +8,17 @@ The dataset includes images of various FRC game pieces captured in different env
 
 ### Dataset Details
 
-- **Total Images**: [Number of Images]
-- **Categories**: [List of Game Piece Categories]
-- **Image Resolution**: [Resolution Information]
-- **Annotations Format**: [e.g., COCO JSON, YOLO TXT, Pascal VOC XML]
-- **File Size**: [Total Dataset Size]
+- **Total Images**: [13,000]
+- **Categories**: [Note, Robot]
+- **Image Resolution**: [Varies Greatly]
+- **Annotations Format**: [YOLO]
+- **File Size**: [3.2 Gigabytes Compressed]
 
 ### Accessing the Dataset
 
 The dataset is hosted on Kaggle. You can access it via the following link:
 
-[**FRC Game Piece Detection Dataset on Kaggle**](https://www.kaggle.com/dataset/[dataset-id])
+[**FRC Game Piece Detection Dataset on Kaggle**](https://www.kaggle.com/datasets/nithilanr/2024-frc-notedetection-dataset)
 
 To download the dataset:
 
@@ -34,21 +34,13 @@ To download the dataset:
 3. **Training**: Use the images and annotations to train your object detection models.
 4. **Evaluation**: Evaluate the performance of your models using the provided annotations.
 
-### Licensing
-
-The dataset is provided under the [dataset license], which permits use for research and educational purposes. Ensure that you adhere to the license terms when using the data.
-
-### Acknowledgments
-
-Special thanks to the contributors and the FRC community for their efforts in collecting and annotating these images. Your contributions help advance computer vision applications in robotics.
-
 ### Issues and Contributions
 
 If you encounter any issues with the dataset or have suggestions for improvements, please open an issue on this GitHub repository. Contributions to enhance the dataset or provide additional annotations are also welcome.
 
 ### Contact
 
-For any questions or inquiries, feel free to reach out to [Your Contact Information] or [Your Email Address].
+For any questions or inquiries, feel free to contact me here.
 
 ---
 
