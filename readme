@@ -4,7 +4,7 @@ Welcome to the FRC Game Piece Detection Dataset repository! This dataset is desi
 
 ## Dataset Overview
 
-The dataset includes images with various FRC game pieces captured in different environments and lighting conditions. The annotations provide information about the location and type of each game piece within the images, which is essential for object detection tasks.
+The dataset includes images of various FRC game pieces captured in different environments and lighting conditions. The annotations provide information about the location and type of each game piece within the images, essential for object detection tasks.
 
 ### Dataset Details
 
